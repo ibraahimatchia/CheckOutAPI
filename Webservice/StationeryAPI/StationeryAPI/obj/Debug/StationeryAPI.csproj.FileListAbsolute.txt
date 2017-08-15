@@ -1,0 +1,151 @@
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\ApplicationInsights.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.exe
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.exe.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.rsp
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\csi.exe
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\csi.rsp
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.AppContext.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.exe
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.exe.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.rsp
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.dll.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.pdb
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Antlr3.Runtime.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Newtonsoft.Json.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\ShoppingDataAccess.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Helpers.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Mvc.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Optimization.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Razor.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\WebGrease.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\ShoppingDataAccess.pdb
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\ShoppingDataAccess.dll.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Newtonsoft.Json.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Helpers.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Mvc.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Optimization.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.Razor.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.csprojResolveAssemblyReference.cache
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.pdb
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\ApplicationInsights.config
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.exe
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.exe.config
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\csc.rsp
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\csi.exe
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\csi.rsp
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.AppContext.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.exe
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.exe.config
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\vbc.rsp
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\VBCSCompiler.exe
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.dll.config
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\StationeryAPI.pdb
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Antlr3.Runtime.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Web.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.ApplicationInsights.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Newtonsoft.Json.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\ShoppingDataAccess.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Net.Http.Formatting.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Helpers.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.WebHost.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Mvc.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Optimization.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Razor.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Deployment.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Razor.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\WebGrease.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\ShoppingDataAccess.pdb
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Newtonsoft.Json.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Net.Http.Formatting.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Helpers.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Http.WebHost.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Mvc.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Optimization.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.Razor.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Deployment.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\System.Web.WebPages.Razor.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Antlr3.Runtime.pdb
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.ApplicationInsights.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\bin\Microsoft.AI.Web.xml
+C:\IA Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.csprojResolveAssemblyReference.cache
+C:\IA Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.dll
+C:\IA Projects\StationeryAPI\StationeryAPI\obj\Debug\StationeryAPI.pdb

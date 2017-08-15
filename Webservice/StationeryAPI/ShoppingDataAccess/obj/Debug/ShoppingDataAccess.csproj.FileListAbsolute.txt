@@ -1,0 +1,10 @@
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\ShoppingDataAccess.dll.config
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\ShoppingDataAccess.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\ShoppingDataAccess.pdb
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\obj\Debug\ShoppingDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\obj\Debug\ShoppingDataAccess.dll
+C:\Users\ibraahim\documents\visual studio 2017\Projects\StationeryAPI\ShoppingDataAccess\obj\Debug\ShoppingDataAccess.pdb
